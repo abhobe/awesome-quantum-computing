@@ -89,8 +89,10 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [Bits of Quantum](http://blog.qutech.nl/) - By the QuTech institution, sharing their research and daily life.
 - [Dawid Kopczyk](http://dkopczyk.quantee.co.uk/category/quantum_computing/) - Quantum algorithms explained to data scientists with visualisations.
 - [Decodoku](https://medium.com/@decodoku) - Interesting posts on quantum computation, by James Wootton.
+- [Microsoft Quantum blog](https://cloudblogs.microsoft.com/quantum/) - Microsoft Quantum program-wide updates.
 - [Musty Thoughts](http://mustythoughts.com) - Personal blog of Michał Stęchły, includes many articles for people starting to learn about quantum computing.
 - [Qiskit blog](https://medium.com/qiskit) - All about quantum computation from the Qiskit community team.
+- [Quantumfy](https://quantumnews.io/) - Snippets on the latest quantum computing news.
 - [Quantum Frontiers](https://quantumfrontiers.com/) - By the Quantum Institute for Quantum Information and Matter, sharing behind the scenes research insights.
 - [Quantum Weekly](https://quantumweekly.com/) - A weekly correlation of all things quantum - computing, cryptography, entanglement.
 - [Quantum Zeitgeist](https://quantumzeitgeist.com/) - Covers the latest news in quantum computing as well as QC companies and careers. 
@@ -108,6 +110,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [Problems and Solutions in Quantum Computing](https://www.worldscientific.com/worldscibooks/10.1142/6077#) - Easy to advanced quantum computing and information problems with detailed solutions.
 - [Programming Quantum Computers: Essential Algorithms and Code Samples](https://www.amazon.com/Programming-Quantum-Computers-Essential-Algorithms/dp/1492039683) - Hands-on introduction to quantum computing that focuses on concepts and programming examples (in multiple languages).
 - [Quantum Computation and Quantum Information](http://mmrc.amss.cas.cn/tlb/201702/W020170224608149940643.pdf) - Comprehensive textbook for those with some prior knowledge in mathematics, computer science and physics.
+- [Quantum Computing: An Applied Approach](https://www.springer.com/gp/book/9783030239213) - A hands on introduction into quantum computing that explains the foundations of quantum computing to the mathematics behind quantum systems.
 - [Quantum Computing: A Gentle Introduction](http://mmrc.amss.cas.cn/tlb/201702/W020170224608150244118.pdf) - Explains quantum computing with only basic college maths knowledge needed.
 - [Quantum Computing Explained](https://www.amazon.com/Quantum-Computing-Explained-David-McMahon/dp/0470096993) - Conversational approach to explaining quantum computing with worked solutions.
 - [Quantum Computing for Computer Scientists](https://www.amazon.com/Quantum-Computing-Computer-Scientists-Yanofsky/dp/0521879965) - Quantum computing explained using an approach accessible to undergraduate computer science students.
